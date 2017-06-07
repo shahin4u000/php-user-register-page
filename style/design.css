@@ -1,0 +1,122 @@
+*{
+
+    padding: 0;
+    margin: 0;
+   
+}
+
+
+
+.wrapper {
+
+    width: 80%;
+    margin: 0 auto;
+    background-color:lightgrey;
+    color:#555;
+    font-family: sans-serif;
+
+}
+
+#icon {
+    height: 40px;
+    width: 100%;
+        
+    color:rgb(4,56,127);
+    text-align: right;
+    letter-spacing: -3px;
+    font-size: 20px;
+}
+nav {
+    height: 60px;
+    background: rgb(4,56,127);
+
+
+}
+nav a {
+
+    color: whitesmoke;
+    
+    display: block;
+    width: 20%;
+    height: 100%;
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    line-height:60px;
+    overflow: hidden;
+    
+    
+
+}
+
+nav a:hover {
+    background-color: darkblue;
+    
+
+}
+
+
+p{
+    padding: 8px;
+    text-indent: 5px;
+    word-spacing: 5px;
+
+
+}
+
+
+
+h2 {
+
+    border-bottom: 3px dotted #999;
+    padding: 5px;
+
+}
+
+
+ 
+
+footer {
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    background-color: burlywood;
+    border-top: 3px dotted #999;
+}
+
+footer p{
+    padding: 0;
+
+}
+
+#formDesign{
+
+    width: 80%;
+    height: auto;
+    margin: 10px auto;
+    background-color:dimgrey;
+    color: white;
+
+}
+
+
+
+#formDesign input { 
+    
+    width:56%; 
+    height: 40px;
+    
+    text-indent: 10px;
+    
+    margin:15px 5px 5px;
+   
+    text-align: center;
+   
+}
+ #button1  {
+     width: 50%;
+     
+     
+}
+
+
